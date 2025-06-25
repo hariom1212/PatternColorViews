@@ -1,0 +1,26 @@
+# Android
+*.iml
+.gradle/
+build/
+local.properties
+*.keystore
+*.jks
+*.apk
+*.ap_*
+*.dex
+*.class
+captures/
+.externalNativeBuild/
+.cxx/
+.idea/
+.DS_Store
+# Keystore files
+keystore/
+# OS generated files
+Thumbs.db
+Desktop.ini
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
+/gradle/wrapper/gradle-wrapper.jar
+# Others
+*.log
